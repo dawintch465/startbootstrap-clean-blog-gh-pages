@@ -1,0 +1,52 @@
+.italic {
+    font-style: italic;
+    font-weight: lighter;
+}
+.ol {
+    font-weight: bold;
+    font-size: 27px; 
+}
+.ul1 {
+    font-size: 20px;
+}
+.ul2 {
+    font-weight: lighter;
+}
+.normal {
+    font-weight: lighter;
+    font-style: normal;
+}
+.my4 {
+    margin-top: 15 rem !important;
+    margin-bottom: 15 rem !important;
+}
+.center {
+    text-align: center;
+    font-size: 70px;
+}
+.justify {
+    text-align: center;
+}
+.blue {
+    color: blue;
+}
+.center {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.fontchange {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bold {
+    font-weight: bold;
+}
